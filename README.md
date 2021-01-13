@@ -5,3 +5,4 @@ I created this dashboard in order to analyze the Covid-19 with an interactive da
 
 I recorded the video below to show you how my dashboard works and I hope you enjoy it :)
 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=TdWEhMOrRpQ)
